@@ -11,7 +11,7 @@ read through "Attention is all you need" paper. Figure out details about multihe
 
 ## What/How to submit 
 submit your work via github:
-- fork **a "private" repo, named as "dls2022-CNetID"**, from this repo: [How to do that?](https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private)
+- fork **a "private" repo, named as "jax-transformer-CNetID"**, from this repo: [How to do that?](https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private)
 - include **a seperate Markdown file**, document you thoughts, questions about attention and jax
 - add the trained **tokenizer.json** in `vanilla-NMT` folder *(train tokenizer and you will see it)*
 - include **ONE `ckpt/state-{timestamp}.pickle`** file *(train model and you will see it)*
