@@ -227,7 +227,7 @@ def main(_):
     dateTimeObj = datetime.now()
     timestampStr = dateTimeObj.strftime("%d-%b-%Y (%H:%M:%S)")
 
-    os.mkdir('ckpt', exist_ok=True)
+    os.makedirs('ckpt', exist_ok=True)
     ckpt_file = f'ckpt/state_{timestampStr}.pickle'
     
     # Store data (serialize)
