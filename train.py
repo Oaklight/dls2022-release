@@ -45,7 +45,6 @@ from tokenizers import Tokenizer
 from tqdm.autonotebook import tqdm
 from transformers import PreTrainedTokenizerFast
 
-import dataset
 import model
 
 IS_TRAINING = True
