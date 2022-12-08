@@ -1,7 +1,7 @@
 # TODO
 
 read through "Attention is all you need" paper. Figure out details about multihead attention module. 
-- Finish `<YOUR CODE GOES HERE>` parts in `model.py`; *Read commends. They are helpful.*
+- Finish `<YOUR CODE GOES HERE>` parts in `model.py`; *Read comments. They are helpful.*
 - Use `einsum` and `einops` for this implementation
 - `Transformer-NMT-en-es.ipynb` notebook provides a workflow of NMT.
 - `train_tokenizer_en/es.py` scripts are for training Unigram Tokenizer from scratch
